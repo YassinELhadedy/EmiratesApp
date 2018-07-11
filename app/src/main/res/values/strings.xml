@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">EmiratesApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="_121_000_aed">121,000 AED</string>
+    <string name="carimage">carImage</string>
+    <string name="favbutton">FavButton</string>
+    <string name="unfavbutton">UnFavButton</string>
+    <string name="jeeb">Jeeb</string>
+    <string name="_38548">38548</string>
+    <string name="Time_Left">12:24:36</string>
+    <string name="time_left">Time Left</string>
+    <string name="lot">Lot#</string>
+    <string name="lot_count">38548</string>
+    <string name="bids">Bids</string>
+    <string name="bids_count">37</string>
+    <string name="timeleft">TimeLeft</string>
+    <string name="_12_24_36">12:24:36</string>
+</resources>
